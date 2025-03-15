@@ -1,13 +1,13 @@
 # Emmylee Crocker - March 15, 2025
 # ISS 212 CS Scripting - WK 8 TD 6- PowerShell - Event Log Monitoring
 # PS script using Regex -- Redacting data using pattern matching
-# Citation - Uses ISS 212 Walthrough material
+# Citation - Uses ISS 212 Walkthrough material
 
 '''
 .DESCRIPTION
-Add {your name} and {date} to the first comment line.
+Emmylee Crocker - March 15, 2025
 ISS 212 - CS Scripting - PowerShell Script: ps-FailLog.ps1
-Citations:
+Citations: Uses ISS 212 Walkthrough material
 
 .PURPOSE
 Week 8 PS script using Regex to match IP data using regex.
